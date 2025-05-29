@@ -4,5 +4,5 @@
 # Aprovado (>=7)
 # Em treinamento (>=5 e <7)
 # Reprovado (<5)
-
+meta1 = int(input("Digite a meta"))
 
