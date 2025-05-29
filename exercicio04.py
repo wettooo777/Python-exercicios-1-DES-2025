@@ -10,5 +10,5 @@ if velocidadeM  < 5:
     print ("Lento")
 elif velocidadeM  > 15:
     print ("Rápido")
-else:
+elif velocidadeM >=5 <10:
     print ("médio")
