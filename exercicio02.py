@@ -6,10 +6,4 @@
 trabalhoX = int(input("Digite o tempo do trabalho X:"))
 trabalhoY = int(input("Digite o tempo do trabalho Y:"))
 trabalhoZ = int(input("Digite o tempo do trabalho Z:"))
-
-soma = trabalhoX + trabalhoY + trabalhoZ
-soma2 = soma - 360
-if soma2 <= 0:
-    print("Acabou o tempo")
-else:
-    print("Parabéns")
+if trabalhoX <0 or trabalhoY <0 or trabalho 
