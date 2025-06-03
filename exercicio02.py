@@ -6,4 +6,7 @@
 trabalhoX = int(input("Digite o tempo do trabalho X:"))
 trabalhoY = int(input("Digite o tempo do trabalho Y:"))
 trabalhoZ = int(input("Digite o tempo do trabalho Z:"))
-if trabalhoX <0 or trabalhoY <0 or trabalho 
+if trabalhoX <0 or trabalhoY <0 or trabalhoZ <0:
+    print("Acabou o tempo")
+else:
+    print("Parabéns")
