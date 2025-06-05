@@ -5,10 +5,10 @@
 # Acima de 150 km: R$ 25,00
 
 MoneyKm = int(input("Digite a distância(em Km): "))
-if MoneyKm >= 50:
+if MoneyKm <= 50:
     print("O valor de frete será: R$ 5,00 ")
-elif MoneyKm >= 51 >= 150:
+elif MoneyKm <= 51 <= 150:
     print("O valor de frete será: R$ 15,00 ")
-elif MoneyKm >= 150:
+else:
     print("O valor de frete será: R$ 25,00 ")
 
