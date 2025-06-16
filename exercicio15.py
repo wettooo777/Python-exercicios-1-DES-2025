@@ -3,4 +3,6 @@
 #Permitido: 13 anos ou mais
 idade = int(input("Digite sua idade: "))
 if idade >= 13:
-    print("")
+    print("Aprovado")
+else:
+    print("Negado")
