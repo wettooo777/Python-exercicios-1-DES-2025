@@ -18,14 +18,14 @@ Crie um programa que receba um ano e diga se ele é bissexto.
 
 Exercício 14 – Sistema de Descontos
 Loja oferece os seguintes descontos:
-
 Compras acima de R$ 500,00 têm 10%
 Acima de R$ 300,00 têm 5%
 Menor ou igual a R$ 300,00 não têm desconto
+
 Exercício 15 – Validação de Idade para Cadastro
 Peça a idade do usuário e diga se ele pode se cadastrar em um site:
-
 Permitido: 13 anos ou mais
+
 Exercício 16 – Cálculo de Reajuste Salarial
 Crie um programa que calcule o reajuste de salário:
 
