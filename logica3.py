@@ -1,0 +1,1 @@
+#Crie uma função area_retangulo(base, altura) que retorna a área de um retângulo.
