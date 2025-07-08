@@ -1,5 +1,5 @@
 #Crie uma função dobro(n) que retorna o dobro de um número.
-dobro = float(input("Digite um número: "))
 def dobro(n):
-    r = (n) *2
-    return 
+    return n * 2
+numero = int(input("Digite um número: "))
+print(f"O dobro de {numero} é {dobro(numero)}")
