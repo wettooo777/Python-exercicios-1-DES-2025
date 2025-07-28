@@ -12,4 +12,4 @@ if palpite.capitalize() == fruta_certa:
     print(f"A fruta na posição {posicao_sorteada} era realmente {fruta_certa}.")
 else:
     print("❌ Que pena, você errou.")
-    print(f"A fruta na posição {posicao_sorteada} era {fruta_certa}.")
+    print(f"A fruta na posição {posicao_sorteada} era {fruta_certa}.")a
